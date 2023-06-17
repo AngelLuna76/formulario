@@ -1,0 +1,16 @@
+  body{
+  background: linear-gradient(0.25turn, #ff0000, #000000, #904141);
+  margin: 1% 25% 1% 25%;
+  }
+  h1{
+    color: red;
+    font-family: Arial;
+  }
+  h2{
+    font-family: Arial;
+  }
+  h3{
+    color: white;
+    font-family: Arial;
+  }
+ 
